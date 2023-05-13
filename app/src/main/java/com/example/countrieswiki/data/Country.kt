@@ -2,7 +2,6 @@ package com.example.countrieswiki.data
 
 data class Country(
     val name: Name,
-    val country: String,
     val region: String,
     val area: Double,
     val population: Long,

@@ -1,7 +1,6 @@
 package com.example.countrieswiki.data
 
 import com.example.countrieswiki.network.GeoDBService
-import okhttp3.OkHttpClient
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
